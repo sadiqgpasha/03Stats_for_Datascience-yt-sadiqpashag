@@ -4,6 +4,7 @@ Here's a comprehensive curriculum blueprint with a focus on statistical mastery 
 
 📘 Core Statistics Topics (Foundational Must-Knows)
 These form the bedrock of statistical reasoning and are essential for any data scientist:
+
 🔢 Descriptive Statistics
 - Measures of central tendency: mean, median, mode
 - Measures of dispersion: variance, standard deviation, IQR
