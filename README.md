@@ -1,4 +1,4 @@
-# 03Statstics_for_DS_by_sadiqpashag
+# [03Statistics_for_DS_by_sadiqpashag](https://www.youtube.com/playlist?list=PL_Xg_EN1dgTFsJfwjI2U_NfmqzBkUL30l)
 
 Here's a comprehensive curriculum blueprint with a focus on statistical mastery across theory, application, and hands-on workflows. I’ve structured it into Core Topics, Advanced Concepts, and Hands-On Skills, with emphasis on real-world relevance, interview depth, and deployment readiness.
 
